@@ -1,4 +1,4 @@
-package com.didispace.aggregate.Sink;
+package com.vivo.aggregate.Sink;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
