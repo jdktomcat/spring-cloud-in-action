@@ -1,4 +1,4 @@
-package com.vivo.aggregate.Sink;
+package com.jdktomcat.aggregate.Sink;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

@@ -6,8 +6,8 @@
 
 ## 博客文章
 
-- 作者博客：http://blog.didispace.com
-- Spring Cloud系列博文：http://blog.didispace.com/categories/Spring-Cloud/
+- 作者博客：http://blog.jdktomcat.com
+- Spring Cloud系列博文：http://blog.jdktomcat.com/categories/Spring-Cloud/
 - Spring Boot系列博文：http://bbs.springcloud.com.cn/categories/Spring-Boot/
 
 ## 我的公众号
