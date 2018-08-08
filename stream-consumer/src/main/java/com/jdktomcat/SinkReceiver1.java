@@ -8,7 +8,7 @@ import org.springframework.cloud.stream.messaging.Sink;
 /**
  * 快速入门
  *
- * @author 翟永超
+ * @author jdktomcat
  * @create 2016/11/8.
  * @blog http://blog.jdktomcat.com
  */

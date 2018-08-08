@@ -13,7 +13,7 @@ import org.springframework.messaging.support.GenericMessage;
 /**
  * 分区消息
  *
- * @author 翟永超
+ * @author jdktomcat
  * @create 2016/11/8.
  * @blog http://blog.jdktomcat.com
  */

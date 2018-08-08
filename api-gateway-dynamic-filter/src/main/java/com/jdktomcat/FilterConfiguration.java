@@ -3,7 +3,7 @@ package com.jdktomcat;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
 /**
- * @author 翟永超
+ * @author jdktomcat
  * @create 2016/12/11.
  * @blog http://blog.jdktomcat.com
  */

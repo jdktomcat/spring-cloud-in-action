@@ -3,7 +3,7 @@ package com.jdktomcat;
 import java.io.Serializable;
 
 /**
- * @author 翟永超
+ * @author jdktomcat
  * @create 2016/11/13.
  * @blog http://blog.jdktomcat.com
  */
