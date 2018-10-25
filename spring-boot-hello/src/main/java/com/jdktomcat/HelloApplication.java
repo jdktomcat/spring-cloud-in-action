@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  * Spring Boot简单测试
  *
- * @author Administrator
+ * @author 汤旗
  */
 @SpringBootApplication
 public class HelloApplication {
