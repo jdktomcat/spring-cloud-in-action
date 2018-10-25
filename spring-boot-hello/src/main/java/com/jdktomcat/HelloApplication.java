@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * 测试
+ * Spring Boot简单测试
  *
  * @author Administrator
  */
